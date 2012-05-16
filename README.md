@@ -1,7 +1,6 @@
-PercussionWorkflowMailExample
-=============================
+#Percussion CM - Workflow email notification example
 
-Percussion CM - Workflow email notification example
+[Percussion Forum Cross-reference thread](http://forum.percussion.com/showthread.php?11090-github-java-Workflow-Email-Notification-Example)
 
 You can install the extension by:
 
